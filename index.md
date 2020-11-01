@@ -1,3 +1,4 @@
+<body bgcolor="#cccccc">
 <b><font size="5">Welcome !</font></b>
 
 <b><font size="5">精選好文</font></b>
