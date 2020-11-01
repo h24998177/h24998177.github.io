@@ -1,37 +1,50 @@
 ## Welcome to My Blog
 
-You can use the [editor on GitHub](https://github.com/h24998177/h24998177.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+精選好文
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 鄭愁予 錯誤
 
-### Markdown
+我打江南走過
+那等在季節裡的容顏如蓮花般開落
+東風不來  三月的柳絮不飛
+你的心如小小的寂寞的城
+恰若青石的街道向晚
+跫音不響  三月的春帷不揭
+你底心是小小的窗扉緊掩
+我達達的馬蹄是美麗的錯誤
+我不是歸人  是個過客
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 雅量 宋晶宜
 
-```markdown
-Syntax highlighted code block
+朋友買了一件衣料，綠色的底子帶白色方格，當她拿給我們看時，一位對圍棋十分感與趣的同學說：
+「啊，好像棋盤似的。」
+「我看倒有點像稿紙。」我說。
+「真像一塊塊綠豆糕。」一位外號叫「大食客」的同學緊接著說。
+我們不禁哄堂大笑，同樣的一件衣料，每個人卻有不同的感覺。那位朋友連忙把衣料用紙包好，她覺得衣料就是衣料，不是棋盤，也不是稿紙，更不是綠豆糕。
+人人的欣賞觀點不盡相同，那是和個人的性格與生活環境有關。
+如果經常逛布店的話，便會發現很少有一匹布沒有人選購過；換句話說，任何質地或花色的衣料，都有人欣賞它。一位鞋店的老闆曾指著櫥窗裡一雙式樣毫不漂亮的鞋子說：「無論怎麼難看的樣子，還是有人喜歡，所以不怕賣不出去。」
+就以「人」來說，又何嘗不是如此？也許我們看某人不順眼，但是在他的男友和女友心中，往往認為他如「天仙」或「白馬王子」般地完美無缺。
+人總會去尋求自己喜歡的事物，每個人的看法或觀點不同，並沒有什麼關係，重要的是──人與人之間，應該有彼此容忍和尊重對方的看法與觀點的雅量。
+如果他能從這扇門望見日出的美景，你又何必要他走向那扇窗去聆聽鳥鳴呢？你聽你的鳥鳴，他看他的日出，彼此都會有等量的美的感受。人與人偶有摩擦，往往都是由於缺乏那分雅量的緣故；因此，為了減少摩擦，增進和諧，我們必須努力培養雅量。
 
-# Header 1
-## Header 2
-### Header 3
+### 孔乙己 魯迅
 
-- Bulleted
-- List
+孔乙己一到店，所有喝酒的人便都看著他笑，有的叫道，「孔乙己，你臉上又添上新傷疤了！」他不回答，對櫃裡說，「溫兩碗酒，要一碟茴香豆。」便排出九文大錢。他們又故意的高聲嚷道，「你一定又偷了人家的東西了！」孔乙己睜大眼睛說，「你怎麼這樣憑空污人清白……」「什麼清白？我前天親眼見你竊了何家的書，吊著打。」孔乙己便漲紅了臉，額上的青筋條條綻出，爭辯道，「竊書不能算偷……竊書！……讀書人的事，能算偷麼？」接連便是難懂的話，什麼「君子固窮」，什麼「者乎」之類，引得眾人都鬨笑起來：店內外充滿了快活的空氣。
 
-1. Numbered
-2. List
+### 我的名字叫吉良吉影
+我的名字叫吉良吉影，33歲。住在杜王町東北部的別墅區一帶，未婚。我在龜友連鎖店服務。每天都要加班到晚上8點才能回家。我不抽煙，酒僅止於淺嚐。晚上11點睡，每天要睡足8個小時。睡前，我一定喝一杯溫牛奶，然後做20分鐘的柔軟操，上了床，馬上熟睡。一覺到天亮，決不把疲勞和壓力留到第二天。醫生都說我很正常。
 
-**Bold** and _Italic_ and `Code` text
+### 張嘉航
+張嘉航，你以為躲起來就找不到你了嗎？沒有用的！像你這樣出色的男人，無論在什麼地方，都像漆黑中的螢火蟲一樣，那樣的鮮明，那樣的出眾
 
-[Link](url) and ![Image](src)
-```
+### 那我也要睡拉
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/h24998177/h24998177.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+統神:蛤 這軟體還要更新? 阿拜託你可不可以幫我更新一下 我都不知道! 不爽用了啦! 去死一死啦 媽的怎麼不投阿 煩死人了 煩死人了 每次都很奇怪欸 別人在辛苦實況 別人在辛苦工作 (小劇場) 怎麼了? 我不知道阿? 拜託一下 你在吹冷氣 別再吹電扇拉 
+003:你不會更新你可以講 請問你有講嗎 
+統神:不是 我現在有需要 我現在有需要 
+003:好啊 你現在立刻關掉阿 我幫你立刻更新 快點 要不要關 要不要 要不要現在關掉 我現在幫你更新 
+統神:不是我現在不知道甚麼情況 不是我現在不知道甚麼情況 
+003:我也不知道阿 你是使用者 
+統神:對 我是使用者 但你不要一副事不關你的事 !@!#!@#!@! 
+003:你先閉嘴 你先閉嘴 我跟你說我明天早上七點要起床 現在凌晨一點要叫我更新 你不會更新 你要先講 好嗎 
+統神:那我也要睡拉 003:很好啊 快睡
