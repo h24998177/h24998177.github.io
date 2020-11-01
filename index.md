@@ -1,6 +1,3 @@
-<body bgcolor="#cccccc">
-<body bgcolor="orange">
-  
 # Welcome !
 
 ## 精選好文
@@ -51,3 +48,7 @@
 統神:對 我是使用者 但你不要一副事不關你的事 !@!#!@#!@! 
 003:你先閉嘴 你先閉嘴 我跟你說我明天早上七點要起床 現在凌晨一點要叫我更新 你不會更新 你要先講 好嗎 
 統神:那我也要睡拉 003:很好啊 快睡
+
+<body bgcolor="#cccccc">
+<body bgcolor="orange">
+  
