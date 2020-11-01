@@ -11,7 +11,7 @@ keywords:
 author: Hans
 language: zh-TW
 timezone: ''
-
+<body bgcolor="#cccccc">
 # URL
 ## If your site is put in a subdirectory, set url as 'http://example.com/child' and root as '/child/'
 url: https://h24998177.github.io/
