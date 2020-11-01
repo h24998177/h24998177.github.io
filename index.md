@@ -1,3 +1,6 @@
+<body bgcolor="#cccccc">
+<body bgcolor="orange">
+  
 # Welcome !
 
 ## 精選好文
