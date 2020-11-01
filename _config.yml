@@ -107,5 +107,4 @@ deploy:
   type: git
   repo: https://github.com/h24998177/h24998177.github.io.git
   branch: master
-<body bgcolor="#cccccc">
-<body bgcolor="orange">
+
