@@ -5,6 +5,8 @@
 
 <img src="https://i.ibb.co/fX55qDw/image.jpg" alt="image" border="0">
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o72AX7EJARw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 <b><font size="4">錯誤 <a href="https://zh.wikipedia.org/wiki/%E9%84%AD%E6%84%81%E4%BA%88">鄭愁予</a></font></b>
 
@@ -56,5 +58,3 @@
 統神:那我也要睡拉 003:很好啊 快睡
 
 <body bgcolor="#cccccc">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o72AX7EJARw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
